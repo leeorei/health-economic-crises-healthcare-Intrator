@@ -1,0 +1,74 @@
+Notes,Year,Year Code,Deaths,Population,Crude Rate
+,1999,1999,27115,279040168,9.71724
+,2000,2000,28001,281421906,9.94983
+,2001,2001,28739,284968955,10.08496
+,2002,2002,28236,287625193,9.81694
+,2003,2003,28988,290107933,9.99214
+,2004,2004,31036,292805298,10.59953
+,2005,2005,30373,295516599,10.27793
+,2006,2006,31214,298379912,10.46116
+,2007,2007,31720,301231207,10.53012
+,2008,2008,31982,304093966,10.51714
+,2009,2009,32041,306771529,10.44458
+,2010,2010,32431,308745538,10.50412
+,2011,2011,33794,311591917,10.8456
+,2012,2012,34052,313914040,10.84756
+,2013,2013,32408,316128839,10.25152
+,2014,2014,29063,318857056,9.11474
+,2015,2015,28699,321418820,8.92885
+Total,,,519892,5112618876,10.1688
+---,,,,,
+"Dataset: Compressed Mortality, 1999-2015 Archive",,,,,
+Query Parameters:,,,,,
+ICD-10 Codes: B20-B24 (Human immunodeficiency virus [HIV] disease); I88.0 (Nonspecific mesenteric lymphadenitis); I88.1 (Chronic,,,,,
+"lymphadenitis, except mesenteric); I88.8 (Other nonspecific lymphadenitis); I88.9 (Nonspecific lymphadenitis, unspecified);",,,,,
+J84.0 (Alveolar and parietoalveolar conditions); J84.1 (Other interstitial pulmonary diseases with fibrosis); J84.8 (Other,,,,,
+"specified interstitial pulmonary diseases); J84.9 (Interstitial pulmonary disease, unspecified); L04.0 (Acute lymphadenitis of",,,,,
+"face, head and neck); L04.1 (Acute lymphadenitis of trunk); L04.2 (Acute lymphadenitis of upper limb); L04.3 (Acute",,,,,
+"lymphadenitis of lower limb); L04.8 (Acute lymphadenitis of other sites); L04.9 (Acute lymphadenitis, unspecified); O98.7 (Human",,,,,
+"immunodeficiency [HIV] disease complicating pregnancy, childbirth and the puerperium); R59.1 (Generalized enlarged lymph nodes);",,,,,
+R62.8 (Other lack of expected normal physiological development); R64 (Cachexia); R75 (Laboratory evidence of human,,,,,
+immunodeficiency virus [HIV]),,,,,
+Group By: Year,,,,,
+Show Totals: True,,,,,
+Show Zero Values: True,,,,,
+Show Suppressed: False,,,,,
+"Calculate Rates Per: 100,000",,,,,
+---,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information.,,,,,
+---,,,,,
+"Query Date: Mar 31, 2021 10:05:27 AM",,,,,
+---,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File",,,,,
+"1999-2015 Archive on CDC WONDER Online Database, released December 2016. Data are from the Compressed Mortality File 1999-2015",,,,,
+"Series 20 No. 2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics",,,,,
+"Cooperative Program. Accessed at http://wonder.cdc.gov/cmf-icd10-archive2015.html on Mar 31, 2021 10:05:27 AM",,,,,
+---,,,,,
+Caveats:,,,,,
+1. About national population figures: population figures for 1999 are from the 1990-1999 series of bridged-race intercensal,,,,,
+estimates of the July 1 resident population; population figures for 2000 and 2010 are bridged-race April 1 census counts;,,,,,
+population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race intercensal estimates of the July 1,,,,,
+"resident population; population figures for 2011 are bridged-race postcensal estimates of the July 1 resident population, from",,,,,
+"the Vintage 2011 series released by NCHS on July 18, 2012; population figures for 2012 are bridged-race postcensal estimates of",,,,,
+"the July 1 resident population, from the Vintage 2012 series released by NCHS on June 13, 2013; population figures for 2013 are",,,,,
+"bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2013 series released by NCHS on June 26,",,,,,
+"2014; population figures for 2014 are bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2014",,,,,
+"series released by NCHS on June 30, 2015. and population figures for 2015 are bridged-race postcensal estimates of the July 1",,,,,
+"resident population, from the Vintage 2015 series released by NCHS on June 28, 2016. More information:",,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#Population Information.,,,,,
+2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group.,,,,,
+3. Changes to cause of death classification affect reporting trends. More information:,,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#ICD-10 Changes.,,,,,
+"4. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,
+http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision.,,,,,
+"5. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies.,,,,,
+6. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death,,,,,
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More",,,,,
+information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies.,,,,,
+7. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies.,,,,,
