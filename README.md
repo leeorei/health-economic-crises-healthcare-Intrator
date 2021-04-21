@@ -7,4 +7,4 @@ Notes:
 * All code runs on Jupyter Notebooks for Python 3.8.3
   * "requirements.txt" file must be run using Python pip by running the following line "pip install -r requirements.txt" in the proper folder for the code in this repository to work properly on your local machine
 
-* Although there are regressions for COMPULSORY, VOLUNTARY, AND OOPEXP in the code they are not referred to in the paper by discretion of the author and advisors.
+* Model numbers for the regression results as described in "all regression results.html" will not match up perfectly to the model numbers in the paper because the of the issues with the quantity regressions discussed in the paper.
