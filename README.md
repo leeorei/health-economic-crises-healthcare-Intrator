@@ -1,6 +1,8 @@
 # health-economic-crises-healthcare-Intrator
 All files, including paper, data, and code for Intrator study on effects of health and economic crises on US healthcare.
 
+Any questions regarding this repository or the study which this repository is linked to may be addressed to leeore.n.intrator@gmail.com.
+
 Notes:
 * Paper is still currently being worked on (as of April 17, 2021) - will be available in this repository by May 6, 2021
 
