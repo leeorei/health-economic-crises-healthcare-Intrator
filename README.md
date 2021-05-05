@@ -6,7 +6,6 @@ To run the code in this repository download the repository and keep all document
 Any questions regarding this repository or the study which this repository is linked to may be addressed to leeore.n.intrator@gmail.com.
 
 Notes:
-* Paper is still currently being finished (as of May 4, 2021) - will be available in this repository by May 6, 2021
 
 * All code runs on Jupyter Notebooks for Python 3.8.3
   * "requirements.txt" file must be run using Python pip by running the following line "pip install -r requirements.txt" on the command line in the proper folder for the code in this repository to work properly on your local machine. For more information regarding this code please refer to the following link: https://pip.pypa.io/en/stable/cli/pip_install/
