@@ -1,6 +1,8 @@
 # health-economic-crises-healthcare-Intrator
 All files, including the paper, data, and code for Intrator study on effects of health and economic crises on US healthcare are contained in this repository.
 
+To run the code in this repository download the repository and keep all documents in a single file, then run the Jupyter Notebook files in that folder. Do not keep data and code in separate files without changing the file locations when importing the data in the code to match your own machine.
+
 Any questions regarding this repository or the study which this repository is linked to may be addressed to leeore.n.intrator@gmail.com.
 
 Notes:
